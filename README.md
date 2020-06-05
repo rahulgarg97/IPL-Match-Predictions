@@ -1,1 +1,5 @@
 # IPL-Match-Predictions
+
+Sports analytics is a promising research field which involves deriving valuable information about the game, based on past games played, or even games in progress. The prediction of the final outcome of the match proves very beneficial to team members, team coaches and also bettors. For example, games tactics can be developed by club managers based on the outcome of previous matches or statistics related to certain players. IPL being a very dynamic league, bettors and bookies are incentivised to bet on the match results or during a game. The sports betting industry is growing at a fast rate.
+
+In this project we are using this method of collecting and analyzing historical game information to derive essential knowledge from it, with the aim that it will promote successful decisions being made. The past data of IPL containing the players’ details, match venue details, teams, ball to ball details, etc is taken and analyzed to draw various conclusions which help in the improvement of a player’s performance, predict outcomes and bid on a player.

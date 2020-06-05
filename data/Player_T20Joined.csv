@@ -1,0 +1,1001 @@
+Player_Name,avg(Innings Batting Strike Rate),avg(Innings Economy Rate),Player_Id,DOB,Batting_Hand,Bowling_Skill,Country
+Kuldeep Yadav,242.10499954223633,7.207500004768372,462,12/14/1994,Left_Hand,Slow left-arm chinaman,India
+TM Dilshan,97.41256441214146,7.443999996185303,135,10/14/1976,Right_Hand,Right-arm offbreak,Sri Lanka
+RMS Eranga,85.70999908447266,8.136666615804037,null,null,null,null,null
+Mohammad Mithun,75.17727314342152,null,null,null,null,null,null
+ST Finn,65.55333455403645,7.333333333333333,null,null,null,null,null
+MS Crane,null,7.75,null,null,null,null,null
+J Botha,128.96749954223634,6.695384594110342,192,5/2/1982,Right_Hand,Right-arm offbreak,South Africa
+J Charles,100.87727335727575,null,null,null,null,null,null
+KA Pollard,126.55340979316018,8.997762226558232,221,5/12/1987,Right_Hand,Right-arm medium-fast,West Indies
+M Muralitharan,12.5,6.325833320617676,121,4/17/1972,Right_Hand,Right-arm offbreak,Sri Lanka
+KO Meth,100,9.25,null,null,null,null,null
+MA Ouma,71.38473791825145,null,null,null,null,null,null
+T Lungameni,100,6.206666628519694,null,null,null,null,null
+AR White,102.11000061035156,4.5,null,null,null,null,null
+JN Malan,69.88999938964844,null,null,null,null,null,null
+SS Cottrell,60.882857186453684,8.01379746425001,null,null,null,null,null
+T Panyangara,88.56800231933593,7.834999970027378,null,null,null,null,null
+RJ Kirtley,50,17,null,null,null,null,null
+CA Ingram,99.50888994004991,null,292,7/3/1985,Left_Hand,Legbreak,South Africa
+GL Cloete,87.49500274658203,null,null,null,null,null,null
+ML Udawatte,85.67625141143799,null,null,null,null,null,null
+Sohrawordi Shuvo,33.33000183105469,12,null,null,null,null,null
+AA Obanda,79.06535809380668,null,null,null,null,null,null
+PKD Chase,64.58250045776367,10.258333365122477,null,null,null,null,null
+GP Swann,87.2086675008138,6.57657894335295,null,null,null,null,null
+JM Muirhead,71.42499923706055,7.65,null,null,null,null,null
+DR Smith,117.50874972343445,9.850909081372349,147,4/12/1983,Right_Hand,Right-arm medium,West Indies
+KM Jarvis,48.59700012207031,9.068636374040084,null,null,null,null,null
+TE Kane,162.086669921875,9.1,null,null,null,null,null
+A Flintoff,112.77142769949776,6.27285715511867,155,12/6/1977,Right_Hand,Right-arm fast-medium,England
+RJ Sidebottom,125,7.595000002119276,null,null,null,null,null
+CJ Boyce,75,8.045714242117745,null,null,null,null,null
+HJH Marshall,79.75999959309895,null,null,null,null,null,null
+Abu Jayed,45.83000183105469,9.776666641235352,null,null,null,null,null
+JK Kamande,65.92111121283637,6.023999977111816,null,null,null,null,null
+Noor Ali Zadran,100.29850063323974,null,null,null,null,null,null
+TL Best,188.8800048828125,7.859999974568685,null,null,null,null,null
+HC Overdijk,185.7100067138672,8.606666564941406,null,null,null,null,null
+SM Sharif,97.64750003814697,8.45609755632354,null,null,null,null,null
+B Lee,109.6216672261556,7.79920000076294,66,11/8/1976,Right_Hand,Right-arm fast,Australia
+AG Prince,83.33000183105469,null,null,null,null,null,null
+O Thomas,50,8.901176452636719,null,null,null,null,null
+GJ Hopkins,95.35249996185303,null,null,null,null,null,null
+AR Patel,125.25571550641742,7.537272713401101,374,1/20/1994,Left_Hand,Slow left-arm orthodox,India
+BMAJ Mendis,108.49066797892253,7.196428571428571,348,1/15/1983,Left_Hand,Legbreak,Sri Lanka
+NM Coulter-Nile,95.53133392333984,8.366666652538159,371,10/11/1987,Right_Hand,Right-arm fast,Australia
+Shahriar Nafees,147.0500030517578,null,null,null,null,null,null
+RD Berrington,107.60685239014802,7.990270253774282,null,null,null,null,null
+AN Petersen,76.18500137329102,null,null,null,null,null,null
+Mohammad Hafeez,103.49647799405184,6.822835801252678,5,10/17/1980,Right_Hand,Right-arm offbreak,Pakistan
+Saad Nasim,84.29500198364258,12,null,null,null,null,null
+LPC Silva,98.26600189208985,4.75,111,12/14/1979,Right_Hand,Legbreak,Sri Lanka
+RG Aga,92.41611099243164,6.969473688225997,null,null,null,null,null
+LN Onyango,87.5,9.547999954223632,null,null,null,null,null
+Asghar Afghan,96.04424001859581,6,null,null,null,null,null
+Joginder Sharma,null,9.572499990463257,119,10/23/1983,Right_Hand,Right-arm fast-medium,India
+PHKD Mendis,90.6974983215332,10,null,null,null,null,null
+SW Poynter,115.06380934942337,null,null,null,null,null,null
+D Murphy,105.0575008392334,null,null,null,null,null,null
+IE O'Brien,null,10.25,null,null,null,null,null
+YK Pathan,122.08888922797308,8.614117622375488,31,11/17/1982,Right_Hand,Right-arm offbreak,India
+Nazimuddin,65.0585708618164,null,null,null,null,null,null
+H Davids,76.78444417317708,6.5,null,null,null,null,null
+BJ Watling,65.39999961853027,null,null,null,null,null,null
+MDK Perera,16.665000915527344,7.273333231608073,null,null,null,null,null
+CR Ervine,85.65060551961263,null,null,null,null,null,null
+Afif Hossain,80.1977776421441,10.16583334406217,null,null,null,null,null
+A Neill,null,7.7,null,null,null,null,null
+DJ Malan,138.53400115966798,13.5,null,null,null,null,null
+RR Emrit,79.44333394368489,9.75,null,null,null,null,null
+RG Sharma,117.51575782082297,10.536666658189562,57,4/30/1987,Right_Hand,Right-arm offbreak,India
+T Mupariwa,200,7.727499961853027,null,null,null,null,null
+TLW Cooper,113.02058881871841,8.369999991522896,null,null,null,null,null
+AN Kervezee,95.21300201416015,null,null,null,null,null,null
+Saqib Zulfiqar,58.33250045776367,6.039999961853027,null,null,null,null,null
+Ahsan Malik,114.02750015258789,7.517586198346368,null,null,null,null,null
+MS Kasprowicz,60,8.289999961853027,null,null,null,null,null
+LL Tsotsobe,21.426666577657063,7.571739124215168,null,null,null,null,null
+GE Mathurin,87.5,7.333333333333333,null,null,null,null,null
+S Badrinath,116.20999908447266,null,23,8/30/1980,Right_Hand,Right-arm offbreak,India
+STR Binny,143.83499908447266,14.333333333333334,255,6/3/1984,Right_Hand,Right-arm medium,India
+KC Sangakkara,108.690189145646,null,26,10/27/1977,Left_Hand,Right-arm offbreak,Sri Lanka
+SJ Baard,114.68384493314304,null,null,null,null,null,null
+MP Stoinis,102.01785741533551,9.011999956766765,409,8/16/1989,Right_Hand,Right-arm medium,Australia
+R Telemachus,166.66000366210938,7.5,null,null,null,null,null
+Ahmed Shehzad,101.89983064037258,10,null,null,null,null,null
+Rumman Raees,null,7.693750023841858,null,null,null,null,null
+AC Douglas,83.84333356221516,6.855000019073486,null,null,null,null,null
+CO Obuya,94.9400002450654,6.496111075083415,null,null,null,null,null
+MM Ali,100.1329174041748,8.743600006103515,null,null,null,null,null
+RT Ponting,96.099374294281,null,3,12/19/1974,Right_Hand,Right-arm medium,Australia
+R Flannigan,90.8650016784668,null,null,null,null,null,null
+SG Whittingham,null,8.166666666666666,null,null,null,null,null
+Raees Ahmadzai,133.73666636149088,null,null,null,null,null,null
+JE Root,109.46733462015787,11.258888880411783,null,null,null,null,null
+RR Hendricks,106.80695658144744,null,null,null,null,null,null
+D Ganga,83.87000274658203,null,null,null,null,null,null
+D Bishoo,65,7.404285703386579,null,null,null,null,null
+B Kumar,85.18333392673068,6.909767428109812,299,2/5/1990,Right_Hand,Right-arm medium,India
+Faheem Ashraf,99.84555519951715,7.202692274863903,null,null,null,null,null
+B Fernando,66.66000366210938,9.699999809265137,null,null,null,null,null
+CG Williams,105.90666715304057,6.48199999332428,null,null,null,null,null
+R McLaren,68.75,8.12083331743876,210,2/9/1983,Left_Hand,Right-arm medium-fast,South Africa
+WIA Fernando,89.28100128173828,null,null,null,null,null,null
+KS Lokuarachchi,55,8.125,null,null,null,null,null
+Sikandar Raza,93.69817184120096,8.593768105990645,null,null,null,null,null
+LV van Beek,52.915000915527344,9.701428549630302,null,null,null,null,null
+CR Brathwaite,113.65407449227793,8.841282037588266,408,7/18/1988,Right_Hand,Right-arm fast-medium,West Indies
+AB Barath,58.54999923706055,null,227,4/14/1990,Right_Hand,Right-arm offbreak,India
+DAS Gunaratne,94.84916750590007,9.517000007629395,null,null,null,null,null
+Shafiul Islam,55.69500080744425,8.402033870503054,null,null,null,null,null
+IA Karim,78.77812540531158,null,null,null,null,null,null
+Rokhan Barakzai,null,7.4433333079020185,null,null,null,null,null
+PM Siddle,100,7.25,null,null,null,null,null
+K Rabada,60.52357155936105,8.710563364163251,null,null,null,null,null
+JD Unadkat,null,8.54399995803833,346,10/18/1991,Right_Hand,Left-arm medium,India
+A Dananjaya,84.51181827891956,7.917727253653786,null,null,null,null,null
+LJ Tucker,93.9502566410945,null,null,null,null,null,null
+JM Anderson,50,7.9084210646779916,null,null,null,null,null
+T Bavuma,140.3279998779297,null,null,null,null,null,null
+DR Flynn,100.93600158691406,7,null,null,null,null,null
+R Ashwin,121.93090959028764,7.199565213659535,201,9/17/1986,Right_Hand,Right-arm offbreak,India
+Mohammed Siraj,null,12.333333333333334,null,null,null,null,null
+AJ Ireland,66.66000366210938,11,null,null,null,null,null
+Sohag Gazi,92.97500101725261,8.54099998474121,null,null,null,null,null
+N Pooran,115.87142910276141,null,null,null,null,null,null
+AB Agarkar,102.7750015258789,7.583333333333333,82,12/4/1977,Right_Hand,Right-arm fast,India
+Anamul Haque,112.82615485558144,null,null,null,null,null,null
+Gulbadin Naib,108.63747883672299,8.850999988449944,null,null,null,null,null
+TT Bresnan,117.59238106863839,7.989999995512121,null,null,null,null,null
+AJ Strauss,89.40999984741211,null,null,null,null,null,null
+KH Pandya,121.6988885667589,8.069444470935398,413,3/24/1991,Left_Hand,Slow left-arm orthodox,India
+H Klaasen,134.25562524795532,null,null,null,null,null,null
+RJ Peterson,89.34833335876465,7.753157866628547,323,8/4/1979,Left_Hand,Slow left-arm orthodox,South Africa
+AR Nurse,126.13125038146973,7.84538459777832,null,null,null,null,null
+MJ Santner,130.98161340528918,7.652325574741807,null,null,null,null,null
+S Tyagi,null,10.5,218,9/17/1987,Right_Hand,Right-arm medium,India
+JJ Celestine,35.44666544596354,null,null,null,null,null,null
+Saqlain Sajib,null,11.420000076293945,null,null,null,null,null
+SR Thompson,113.24069003401131,8.78466664950053,null,null,null,null,null
+NG Jones,91.8174991607666,7,null,null,null,null,null
+CA Young,58.40800018310547,8.766321826255185,null,null,null,null,null
+SM Curran,133.83666483561197,9.3,null,null,null,null,null
+BCJ Cutting,93.75,9.1875,385,1/30/1987,Right_Hand,Right-arm fast-medium,Australia
+JL Ontong,127.11900024414062,13.625,null,null,null,null,null
+M Zondeki,0,13.65999984741211,null,null,null,null,null
+V Permaul,null,16,null,null,null,null,null
+Mohammad Irfan,61.11000061035156,7.671363613822243,null,null,null,null,null
+DSK Madushanka,null,11.804999828338623,null,null,null,null,null
+TL Chatara,61.426666259765625,8.007142838977632,null,null,null,null,null
+MR Swart,102.69000091552735,6.62849999666214,null,null,null,null,null
+BM Wheeler,100,10.264999866485596,null,null,null,null,null
+MN Waller,131.10200042724608,7.666666666666667,null,null,null,null,null
+BB Chari,42.590000788370766,null,null,null,null,null,null
+AJ Staal,89.03875064849854,null,null,null,null,null,null
+AC Botha,74.62272713401101,5.140999984741211,null,null,null,null,null
+MJ Mason,100,7.21999994913737,null,null,null,null,null
+MF Maharoof,62.80200042724609,8.02999997138977,90,9/7/1984,Right_Hand,Right-arm fast-medium,India
+PDRL Perera,null,10.789999961853027,null,null,null,null,null
+DT Tiripano,79.021764867446,8.591249965131283,null,null,null,null,null
+VS Solanki,138.23333231608072,null,null,null,null,null,null
+JN Gillespie,133.3300018310547,12.25,null,null,null,null,null
+CJ McKay,68.75,8.009999990463257,318,2/20/1983,Right_Hand,Right-arm fast-medium,Australia
+Parvez Rasool,83.33000183105469,8,366,2/13/1989,Right_Hand,Right-arm offbreak,India
+S Aravind,null,12,270,4/8/1984,Left_Hand,Left-arm medium-fast,India
+Jubair Hossain,null,10,null,null,null,null,null
+Samiullah Shinwari,108.46000064918381,6.7484210259036015,null,null,null,null,null
+A Shahzad,0,9.026666641235352,null,null,null,null,null
+WKD Perkins,81.80999755859375,null,null,null,null,null,null
+PADLR Sandakan,74.78764657413258,7.494489786576252,null,null,null,null,null
+AC Evans,6.6660003662109375,7.307199993133545,null,null,null,null,null
+N Boje,null,6.75,null,null,null,null,null
+SP Narine,112.8780014038086,6.1277550921148185,315,5/26/1988,Left_Hand,Right-arm offbreak,West Indies
+JD Campbell,39.28499984741211,1,null,null,null,null,null
+Shadab Khan,117.5030769935021,7.216842074143259,null,null,null,null,null
+Rafatullah Mohmand,58.61000061035156,null,null,null,null,null,null
+DAP Darrell,64.70800018310547,7,null,null,null,null,null
+AR Cusack,108.56799969673156,7.155757568099282,null,null,null,null,null
+PJ van Biljon,133.74625205993652,null,null,null,null,null,null
+HMCM Bandara,75.92333221435547,7.1875,null,null,null,null,null
+ML Nkala,33.33000183105469,null,null,null,null,null,null
+SR Bhudia,40.47333335876465,6.707499980926514,null,null,null,null,null
+MR Adair,124.52266794840494,6.957222236527337,null,null,null,null,null
+M Nasim Baras,50,6.829999923706055,null,null,null,null,null
+F Behardien,126.8086669921875,5.666666666666667,428,10/9/1983,Right_Hand,Right-arm fast-medium,South Africa
+C Munro,132.0931158847496,10.707499980926514,411,3/11/1987,Left_Hand,Right-arm medium-fast,New Zealand
+M Vijay,90.51444498697917,4.5,185,4/1/1984,Right_Hand,Right-arm offbreak,India
+Z Groenewald,61.38750076293945,6.398999977111816,null,null,null,null,null
+G Goudie,137.3000005086263,9.911111036936441,null,null,null,null,null
+Javed Ahmadi,60,null,null,null,null,null,null
+AD Mascarenhas,95.95750045776367,7.957857131958008,137,10/30/1977,Right_Hand,Right-arm fast-medium,England
+PJ Ingram,35.6499989827474,null,null,null,null,null,null
+LJ Woodcock,null,7.5,null,null,null,null,null
+Taskin Ahmed,78.70166651407878,7.982352929956773,null,null,null,null,null
+TG Southee,119.49666666101527,8.624057963274527,377,12/11/1988,Right_Hand,Right-arm medium-fast,New Zealand
+Shahzaib Hasan,61.44300003051758,null,null,null,null,null,null
+Aamer Yamin,250,6.125,null,null,null,null,null
+Shakeel Ansar,0,null,null,null,null,null,null
+GE Kidd,100,10.65999984741211,null,null,null,null,null
+NFI McCallum,47.10857173374721,null,null,null,null,null,null
+SR Patel,82.57153848501352,8.537999979654948,null,null,null,null,null
+DJG Sammy,136.1283325354258,8.074385948348464,362,12/20/1983,Right_Hand,Right-arm medium-fast,West Indies
+GH Worker,135.4199981689453,9.5,null,null,null,null,null
+SE Bond,92.26000022888184,7.014999985694885,220,6/7/1975,Right_Hand,Right-arm fast,New Zealand
+BB Sran,null,5.125,429,12/10/1992,Left_Hand,Left-arm medium,India
+BAW Mendis,84.04666662216187,6.415384610493978,174,3/11/1985,Right_Hand,Right-arm offbreak,Sri Lanka
+AK Kitchen,154.38500022888184,7.083333333333333,null,null,null,null,null
+AF Milne,92.06000137329102,7.6466666630336215,461,4/13/1992,Right_Hand,Right-arm fast,New Zealand
+HH Pandya,153.8779993057251,8.538205122336363,400,10/11/1993,Right_Hand,Right-arm medium-fast,India
+SF Mire,105.7549991607666,10.981999969482422,null,null,null,null,null
+PA van Meekeren,74.76750087738037,6.961538467651758,null,null,null,null,null
+Mahmudullah,112.31631424467443,7.849090896953236,null,null,null,null,null
+Soumya Sarkar,99.63444442219205,11.196428571428571,null,null,null,null,null
+RD McCann,50,null,null,null,null,null,null
+JWM Dalrymple,88.31000010172527,8.5,null,null,null,null,null
+TM Head,126.3346664428711,10.333333333333334,417,12/29/1993,Left_Hand,Right-arm offbreak,Australia
+RN Lewis,0,9,null,null,null,null,null
+Sarfaraz Ahmed,104.66692352294922,null,null,null,null,null,null
+DPMD Jayawardene,114.22849136928342,8,64,5/27/1977,Right_Hand,Right-arm medium,Sri Lanka
+EMDY Munaweera,115.49615419827975,10.6,null,null,null,null,null
+Shahadat Hossain,52.08250045776367,9.859999974568685,null,null,null,null,null
+JM How,73.69799919128418,null,null,null,null,null,null
+RW Price,44.760001046316965,6.192499995231628,449,6/12/1976,Right_Hand,Slow left-arm orthodox,Zimbabwea
+Mashrafe Mortaza,113.56794934395032,8.024339621921754,195,10/5/1983,Right_Hand,Right-arm fast-medium,Bangladesh
+T Banton,170,null,null,null,null,null,null
+JN Snape,63.630001068115234,12,null,null,null,null,null
+A Nel,0,5.25,438,7/15/1977,Right_Hand,Right-arm fast-medium,South Africa
+SJ Benn,100.09857177734375,7.265833298365275,null,null,null,null,null
+AM Ellis,114.66600036621094,10.207499980926514,null,null,null,null,null
+DR Tuffey,125,10,null,null,null,null,null
+V Sehwag,138.06499989827475,20,41,10/20/1978,Right_Hand,Right-arm offbreak,India
+N Dickwella,120.75272802873091,null,null,null,null,null,null
+BV Vitori,104.16500091552734,8.278181856328791,null,null,null,null,null
+Ziaur Rahman,105.20833333333333,12.112499952316284,null,null,null,null,null
+Mahedi Hasan,87.5,8.628888871934679,null,null,null,null,null
+PL Mommsen,112.06105202122738,7.367142813546317,null,null,null,null,null
+K Santokie,null,7.110833326975505,456,12/20/1984,Left_Hand,Left-arm medium,West Indies
+KV Sharma,null,7,166,10/23/1987,Left_Hand,Legbreak googly,India
+KMDN Kulasekara,90.0456672668457,7.386206900251323,324,7/22/1982,Right_Hand,Right-arm fast-medium,Sri Lanka
+PJ Moor,134.04684327778062,null,null,null,null,null,null
+KS Leverock,103.37666765848796,8.697499990463257,null,null,null,null,null
+SJS Smith,41.93000030517578,null,null,null,null,null,null
+LS Livingstone,44.439998626708984,null,null,null,null,null,null
+JD Nel,121.14200134277344,5.656666649712457,null,null,null,null,null
+J Theron,72.91666666666667,8.529999997880724,233,7/24/1985,Right_Hand,Right-arm medium-fast,South Africa
+JN Mohammed,73.84250068664551,6.5,null,null,null,null,null
+SS Iyer,115.28368342550178,null,393,12/6/1994,Right_Hand,Legbreak googly,India
+T Taibu,87.84133402506511,10.25,129,5/14/1983,Right_Hand,Right-arm medium,Zimbabwea
+TP Visee,116.28333452012804,null,null,null,null,null,null
+RML Taylor,127.89499918619792,8.203333324856228,null,null,null,null,null
+SC Kuggeleijn,129.83999888102213,9.929999987284342,null,null,null,null,null
+S Dhawan,110.52610211453195,null,42,12/5/1985,Left_Hand,Right-arm offbreak,India
+GB Brent,40,8.693333307902018,null,null,null,null,null
+DL Hemp,33.33000183105469,null,null,null,null,null,null
+RJ Trott,45.70200119018555,7.50769226367657,null,null,null,null,null
+Nasir Hossain,103.08826048477836,9.118181748823686,null,null,null,null,null
+Najeeb Tarakai,101.24333349863689,null,null,null,null,null,null
+Zamir Khan,null,6.5,null,null,null,null,null
+JS Foster,105.66600036621094,null,null,null,null,null,null
+BM Duckett,128.57000732421875,null,null,null,null,null,null
+HF Gurney,null,6.875,null,null,null,null,null
+NV Ojha,38.88499927520752,null,183,7/20/1983,Right_Hand,NULL,India
+GJ Maxwell,135.54370442143193,8.036999988555909,305,10/14/1988,Right_Hand,Right-arm offbreak,Australia
+SNJ O'Keefe,99.16600036621094,8.035714285714286,null,null,null,null,null
+R Dravid,147.61000061035156,null,6,1/11/1973,Right_Hand,Right-arm offbreak,India
+SL Malinga,69.71663085274075,7.378380565025545,194,8/28/1983,Right_Hand,Right-arm fast,Sri Lanka
+N Madziva,92.41900024414062,8.914666652679443,null,null,null,null,null
+RN ten Doeschate,115.593637639826,6.8,284,6/30/1980,Right_Hand,Right-arm medium-fast,Netherlands
+T van der Gugten,116.49800109863281,7.458684174638045,null,null,null,null,null
+Simi Singh,79.39136453108354,8.865072443865348,null,null,null,null,null
+B Laughlin,null,10,343,10/3/1982,Right_Hand,Right-arm fast-medium,Australia
+CK Langeveldt,38.88666788736979,7.369999991522895,242,12/17/1974,Right_Hand,Right-arm fast-medium,England
+FA Allen,91.96827592520879,7.194374978542328,null,null,null,null,null
+LJ Wright,97.38795482028614,8.619565217391305,358,3/7/1985,Right_Hand,Right-arm medium-fast,England
+Saeed Ajmal,94.67315834446957,6.380952373383537,null,null,null,null,null
+OO Bascome,71.66333516438802,null,null,null,null,null,null
+MA Leask,97.30333455403645,9.397727272727273,null,null,null,null,null
+GT Main,null,10,null,null,null,null,null
+JJ Roy,124.36485748291015,null,null,null,null,null,null
+AJ Turner,86.4442879813058,7,null,null,null,null,null
+GJP Kruger,60,7.25,null,null,null,null,null
+DM Bravo,89.54833348592122,null,null,null,null,null,null
+Abul Hasan,139.5800018310547,10.397999954223632,null,null,null,null,null
+Rashid Khan,141.1316925048828,5.918043468309485,null,null,null,null,null
+MA Carberry,100,null,null,null,null,null,null
+TB de Bruyn,153.3300018310547,null,null,null,null,null,null
+KJ Abbott,110.41666666666667,7.733333360581171,416,6/18/1987,Right_Hand,Right-arm fast-medium,South Africa
+AB Dinda,85,8.434444427490234,106,3/25/1984,Right_Hand,Right-arm medium-fast,India
+R Dhawan,50,10.5,356,2/19/1990,Right_Hand,Right-arm medium-fast,India
+NM Carter,33.329999923706055,6.3442856924874445,null,null,null,null,null
+GJ Bailey,118.40759994506836,null,197,9/7/1982,Right_Hand,Right-arm medium,Australia
+CR Foggo,64.84666697184245,null,null,null,null,null,null
+B Zuiderent,81.14333470662434,null,null,null,null,null,null
+N Davin,143.05999898910522,null,null,null,null,null,null
+PC Connell,41.666666666666664,6.881250023841858,null,null,null,null,null
+M Ntini,83.33250045776367,9.723999977111816,122,7/6/1977,Right_Hand,Right-arm fast,South Africa
+SV Samson,144.79000091552734,null,351,11/11/1994,Right_Hand,NULL,India
+M Bhanuka,0,null,null,null,null,null,null
+Farhad Reza,78.23111195034451,9.636363636363637,null,null,null,null,null
+RJW Topley,50,11.066666603088379,null,null,null,null,null
+MA Starc,100.95142909458706,6.937934774419536,378,1/30/1990,Left_Hand,Left-arm fast,Australia
+RR Sarwan,111.83875012397766,5,76,6/23/1980,Right_Hand,Legbreak,West Indies
+OL Pitcher,67.59000015258789,7,null,null,null,null,null
+Wahab Riaz,108.93615487905649,7.881000010172526,null,null,null,null,null
+TN de Grooth,106.97230823223407,null,null,null,null,null,null
+Ariful Haque,90.44875144958496,13,null,null,null,null,null
+MH Cross,107.38314323425293,null,null,null,null,null,null
+MW Parkinson,null,9.375,null,null,null,null,null
+RLB Rambukwella,118.75,7.775000095367432,null,null,null,null,null
+C Zhuwao,34.162858145577566,3,null,null,null,null,null
+Naeem Islam,109.22500038146973,8.318333307902018,null,null,null,null,null
+HA Varaiya,87.30333370632596,6.74208332101504,null,null,null,null,null
+E Otieno,56.93000078201294,7.840555535422431,null,null,null,null,null
+P Mustard,160.25,null,null,null,null,null,null
+GD McGrath,41.65999984741211,9.875,118,2/9/1970,Right_Hand,Right-arm fast-medium,Australia
+JE Taylor,140.63928604125977,8.743999989827474,282,6/22/1984,Right_Hand,Right-arm fast,New Zealand
+AR Adams,110,10.837500095367432,null,null,null,null,null
+HK Bennett,50,9.531999969482422,null,null,null,null,null
+F Mutizwa,76.47000122070312,null,null,null,null,null,null
+CJ Dala,52.165000915527344,9.776666641235352,null,null,null,null,null
+SMSM Senanayake,75.03363591974431,6.723478234332541,352,2/9/1985,Right_Hand,Right-arm offbreak,Sri Lanka
+CT Mutombodzi,69.89435968643579,7.359999974568685,null,null,null,null,null
+ES Szwarczynski,91.58000055948894,null,null,null,null,null,null
+PJ Ongondo,78.6500015258789,7.07124999165535,null,null,null,null,null
+GSNFG Jayasuriya,92.62130538277005,10.104687482118607,null,null,null,null,null
+JRMVB Sanjaya,131.4260009765625,8.90499997138977,null,null,null,null,null
+J Nyumbu,58.33000183105469,12.65999984741211,null,null,null,null,null
+GC Smith,115.18303079316111,15.5,74,2/1/1981,Left_Hand,Right-arm offbreak,South Africa
+DJ Vilas,null,null,null,null,null,null,null
+JS Patel,50,8.123999977111817,null,null,null,null,null
+DT Johnston,136.11736859773336,6.586071423121861,null,null,null,null,null
+MA Parker,null,10.75,null,null,null,null,null
+OA Shah,117.88200022379557,null,204,10/22/1978,Right_Hand,Right-arm offbreak,England
+L Sipamla,0,9.339999961853028,null,null,null,null,null
+K Pierre,76.25,9.657999992370605,null,null,null,null,null
+AM Rahane,100.70350036621093,null,85,6/6/1988,Right_Hand,Right-arm medium,India
+CK Coventry,121.62250010172527,null,null,null,null,null,null
+MO Jones,99.36857223510742,8.404285703386579,null,null,null,null,null
+Shakib Al Hasan,104.36506724039714,6.886666660308838,276,3/24/1987,Left_Hand,Slow left-arm orthodox,Bangladesh
+RM West,100,7.55,null,null,null,null,null
+BA Stokes,138.38304403553838,9.155714262099494,null,null,null,null,null
+L Vincent,83.0911110772027,null,null,null,null,null,null
+Usman Ghani,93.85576319290419,null,null,null,null,null,null
+SCJ Broad,114.86680007934571,7.897272708199241,null,null,null,null,null
+DE Bollinger,100,7.119999991522895,248,7/24/1981,Left_Hand,Left-arm fast-medium,Australia
+OC McCoy,95.83000183105469,14.65999984741211,null,null,null,null,null
+Imam-ul-Haq,81.66500091552734,null,null,null,null,null,null
+MG Erasmus,120.37500054495675,5.421999979019165,null,null,null,null,null
+BM Scholtz,54.755001068115234,5.445714269365583,null,null,null,null,null
+JC Buttler,124.06000080108643,null,407,9/8/1990,Right_Hand,NULL,England
+DC Thomas,null,null,null,null,null,null,null
+IH Romaine,39.58000183105469,4.559999942779541,null,null,null,null,null
+S Snater,72.57000122070312,9.49583331743876,null,null,null,null,null
+DI Allan,53.04900064468384,9.75,null,null,null,null,null
+ZE Green,116.93818179043856,null,null,null,null,null,null
+AB de Villiers,118.67973038956926,null,110,2/17/1984,Right_Hand,Right-arm medium,South Africa
+C Jonker,182.0800018310547,null,null,null,null,null,null
+S Badree,76.44857215881348,6.210799987316132,452,3/9/1981,Right_Hand,Legbreak,West Indies
+Robiul Islam,null,13,null,null,null,null,null
+C Viljoen,102.10166676839192,6.9375,null,null,null,null,null
+OJ Hairs,124.21143014090401,null,null,null,null,null,null
+SM Harwood,null,9.416666666666666,184,3/1/1974,Right_Hand,Right-arm fast-medium,Australia
+B Geeves,null,10.5,436,6/13/1982,Right_Hand,Right-arm fast-medium,Australia
+A Nortje,33.33000183105469,8.5,null,null,null,null,null
+Mohammad Naim,96.55125093460083,null,null,null,null,null,null
+JM Bairstow,126.5428124666214,null,null,null,null,null,null
+MJ Clarke,92.32555671974465,9.465999984741211,328,4/2/1981,Right_Hand,Slow left-arm orthodox,Australia
+DG Brownlie,25,null,null,null,null,null,null
+UT Yadav,50,8.785714285714286,232,10/25/1987,Right_Hand,Right-arm fast-medium,India
+Mohammad Rizwan,89.56285749162946,null,null,null,null,null,null
+JDF Vandersay,135.71249961853027,8.340999984741211,null,null,null,null,null
+TP Kamungozi,null,8.5,null,null,null,null,null
+BFW de Leede,77.39500045776367,13.5,null,null,null,null,null
+CP Schofield,121.72500228881836,8.082499980926514,null,null,null,null,null
+BE Hendricks,58.522499084472656,9.369999995598427,387,6/8/1990,Left_Hand,Left-arm fast-medium,South Africa
+BA Parchment,166.66000366210938,null,null,null,null,null,null
+Abdul Razzaq,111.47448348999023,7.931818160143766,null,null,null,null,null
+AO Suji,72.79249954223633,7.410000006357829,null,null,null,null,null
+AJ Tye,97.96599998474122,9.017999992370605,null,null,null,null,null
+T Henderson,0,7.75,159,8/1/1974,Right_Hand,Right-arm fast-medium,South Africa
+I Udana,122.81847497972392,8.40249997973442,null,null,null,null,null
+JJ Tucker,86.74200134277343,10,null,null,null,null,null
+KC Hodsoll,0,8,null,null,null,null,null
+RM Haq,57.872000503540036,6.2944999694824215,null,null,null,null,null
+MA Wood,111.10500144958496,9.612499952316284,null,null,null,null,null
+M Morkel,115.55500030517578,7.560731701734589,190,10/6/1984,Left_Hand,Right-arm fast,South Africa
+R Vinay Kumar,50,8.045555538601345,81,2/12/1984,Right_Hand,Right-arm medium,India
+Mohammad Amir,73.20500000317891,6.957916662096977,null,null,null,null,null
+D Jakiel,null,6.204999923706055,null,null,null,null,null
+SD Outerbridge,93.01333363850911,null,null,null,null,null,null
+SKW Kelly,59.520002365112305,7.333333333333333,null,null,null,null,null
+Alok Kapali,56.54714284624372,7.75,null,null,null,null,null
+ME Trescothick,127.38666534423828,null,null,null,null,null,null
+JH Kallis,114.96913047458814,7.946315765380859,9,10/16/1975,Right_Hand,Right-arm fast-medium,South Africa
+LRPL Taylor,115.84173944722052,null,52,3/8/1984,Right_Hand,Right-arm offbreak,New Zealand
+CJ Chibhabha,89.73406261205673,8.807727250185879,null,null,null,null,null
+T Maruma,77.91833305358887,8,null,null,null,null,null
+NW Bracken,115.65500068664551,6.8942105142693775,null,null,null,null,null
+Fawad Ahmed,60,8.5,null,null,null,null,null
+AD Russell,121.50127161963512,9.812903223499175,334,4/29/1988,Right_Hand,Right-arm fast,West Indies
+AF Buurman,0,null,null,null,null,null,null
+JA Richardson,177.77666727701822,8.545555538601345,null,null,null,null,null
+M Markande,null,7.75,null,null,null,null,null
+Zulqarnain Haider,60.18333307902018,null,null,null,null,null,null
+Yasir Shah,157.13999938964844,9.164999961853027,null,null,null,null,null
+TK Musakanda,89.28333409627278,null,null,null,null,null,null
+DA Rankin,90.06000137329102,null,null,null,null,null,null
+RK Kleinveldt,207.13999938964844,9.858333349227905,null,null,null,null,null
+Ahsan Ali,56.25,null,null,null,null,null,null
+Elias Sunny,99.99750137329102,6.642857142857143,null,null,null,null,null
+CG Burnett,null,4.5,null,null,null,null,null
+TM Dowlin,98.43500137329102,null,null,null,null,null,null
+EP Thompson,100,6,null,null,null,null,null
+AJ McKay,0,5.474999904632568,null,null,null,null,null
+JJ Bumrah,42.58999888102213,6.537755095228857,375,12/6/1993,Right_Hand,Right-arm medium,India
+A Mishra,null,6.4079999923706055,136,11/24/1982,Right_Hand,Legbreak,India
+R Sharma,null,7.630000114440918,235,4/30/1987,Right_Hand,Right-arm offbreak,India
+NLTC Perera,133.09472380211605,9.966032606104147,280,4/3/1989,Left_Hand,Right-arm medium-fast,Sri Lanka
+E Leie,null,7.994999885559082,null,null,null,null,null
+E Lewis,112.0483875889932,null,null,null,null,null,null
+DK Butler,null,7.329999923706055,null,null,null,null,null
+YS Chahal,58.33250045776367,8.179285707927885,382,7/23/1990,Right_Hand,Legbreak googly,India
+Mohammad Hasnain,45,8.041666666666666,null,null,null,null,null
+PBB Rajapaksa,101.03833262125652,null,null,null,null,null,null
+TAM Siriwardana,104.39105264764083,9.281538449800932,null,null,null,null,null
+W Barresi,104.2507325149164,7.846666653951009,null,null,null,null,null
+NM Odhiambo,65.19875049591064,7.8028571265084405,null,null,null,null,null
+SC Getkate,96.64605311343544,9.480714253016881,null,null,null,null,null
+TS Mills,0,7.25,null,null,null,null,null
+DJ Bravo,107.31457687636554,8.580718214340632,71,10/7/1983,Right_Hand,Right-arm medium-fast,West Indies
+N Deonarine,89.43833287556966,9.332499980926514,null,null,null,null,null
+MS Sinclair,0,null,null,null,null,null,null
+JO Ngoche,54.759999910990395,6.047142846243722,null,null,null,null,null
+SW Billings,106.73136346990412,null,421,6/15/1991,Right_Hand,NULL,England
+KD Mills,84.9484210767244,8.187619038990565,null,null,null,null,null
+RR Pant,94.87160049438477,null,420,10/4/1997,Left_Hand,NULL,India
+Abdur Rauf,null,7,null,null,null,null,null
+CU Jayasinghe,126.90333557128906,null,null,null,null,null,null
+Mushfiqur Rahim,104.3537833172342,null,null,null,null,null,null
+Hashmatullah Shahidi,100,null,null,null,null,null,null
+JL Denly,66.3090917413885,9.01599998474121,null,null,null,null,null
+DJ Hussey,98.33888901604547,6.585599975585938,4,7/15/1977,Right_Hand,Right-arm offbreak,Australia
+SE Marsh,85.75200042724609,null,100,7/9/1983,Left_Hand,Slow left-arm orthodox,Australia
+LMP Simmons,104.34993550684545,10.443333307902018,383,1/25/1985,Right_Hand,Right-arm medium-fast,West Indies
+DJ Mitchell,96.54636487093839,11.894000053405762,null,null,null,null,null
+Mohammad Nawaz (3),66.15499877929688,7.414999961853027,null,null,null,null,null
+RP Arnold,100,null,null,null,null,null,null
+P Utseya,71.89238139561245,7.071999985831124,null,null,null,null,null
+TE Tucker,20,2.5,null,null,null,null,null
+CN Ackermann,128.1081841208718,6.132999992370605,null,null,null,null,null
+Mohammad Saifuddin,137.35666741265192,9.29499998546782,null,null,null,null,null
+MS Panesar,50,10,null,null,null,null,null
+Iftikhar Ahmed,140.61666870117188,9.5,null,null,null,null,null
+Mohammad Sami,101.78499984741211,8.454615372877855,null,null,null,null,null
+JE Pitcher,125,7.773333231608073,null,null,null,null,null
+PR Stirling,112.62546696980795,8.773177565815292,null,null,null,null,null
+MC Sorensen,101.91900177001953,7.797272682189941,null,null,null,null,null
+PD Collingwood,109.96454539443508,9.894736842105264,241,5/26/1976,Right_Hand,Right-arm medium,England
+KDK Vithanage,65.38333129882812,null,null,null,null,null,null
+HN Ya France,64.81333414713542,7.263333320617676,null,null,null,null,null
+GD Drummond,65.33666737874348,7.303529402788947,null,null,null,null,null
+JH Davey,124.47200088500976,8.127499961853028,null,null,null,null,null
+DR Brown,20,11,null,null,null,null,null
+L Ronchi,110.97333319981892,null,43,4/23/1981,Right_Hand,NULL,Australia
+D Wiese,137.79499893188478,7.807499980926513,401,5/18/1985,Right_Hand,Right-arm medium-fast,South Africa
+CS Baugh,92.58999888102214,null,null,null,null,null,null
+Sohail Khan,100,7.85,null,null,null,null,null
+HMRKB Herath,78,6.248235302812913,null,null,null,null,null
+Liton Das,113.95416741144089,null,null,null,null,null,null
+A Zampa,113.23600006103516,6.057558131772418,430,3/31/1992,Right_Hand,Legbreak googly,Australia
+NE Bonner,66.36000061035156,9,null,null,null,null,null
+Junaid Siddique,142.7971431187221,null,null,null,null,null,null
+Rony Talukdar,95.44999694824219,null,null,null,null,null,null
+JN Frylinck,88.84142957414899,5.530769238105187,null,null,null,null,null
+Mohammad Nabi,123.13448670645741,7.2964628679783585,null,null,null,null,null
+Fareed Ahmad,160,9.122857161930629,null,null,null,null,null
+KP Pietersen,135.15083376566568,10.333333333333334,158,6/27/1980,Right_Hand,Right-arm offbreak,South Africa
+AA Noffke,null,5.444999933242798,13,4/30/1977,Right_Hand,Right-arm fast-medium,Australia
+M de Lange,null,9.850000063578287,389,10/13/1990,Right_Hand,Right-arm fast,South Africa
+S Sreesanth,74.44333394368489,8.573333316379124,77,2/6/1983,Right_Hand,Right-arm fast-medium,India
+S Prasanna,127.50450038909912,7.36499998304579,null,null,null,null,null
+HJC Mol,0,8,null,null,null,null,null
+Najibullah Zadran,138.80313395182293,null,null,null,null,null,null
+CL White,114.4081397832826,7.7,10,8/18/1983,Right_Hand,Legbreak googly,Australia
+DS Smith,131.47833379109701,null,null,null,null,null,null
+LH Ferguson,33.33000183105469,7.15625,null,null,null,null,null
+Arafat Sunny,115.97166697184245,7.298999977111817,null,null,null,null,null
+SO Tikolo,100.1913340250651,7.25,null,null,null,null,null
+C Kieswetter,97.06520065307618,null,null,null,null,null,null
+SG Borthwick,87.5,3.75,null,null,null,null,null
+J Louw,100,7.5,null,null,null,null,null
+Shaheen Shah Afridi,0,7.297499974568685,null,null,null,null,null
+MC Henriques,99.37500095367432,10.022857121058873,163,2/1/1987,Right_Hand,Right-arm fast-medium,Australia
+I Sharma,100,8.380714280264717,84,9/2/1988,Right_Hand,Right-arm fast-medium,India
+Sohaib Maqsood,96.33588229908662,12,null,null,null,null,null
+PC de Silva,77.5,15,null,null,null,null,null
+PVD Chameera,68.96777767605252,8.670526303743062,null,null,null,null,null
+SI de Saram,null,null,null,null,null,null,null
+RP Burl,104.11923041710487,9.266666666666667,null,null,null,null,null
+O Bascome,88.3009085221724,null,null,null,null,null,null
+L Louwrens,113.33000183105469,null,null,null,null,null,null
+BJ McCarthy,68.95500183105469,10.293103448275861,null,null,null,null,null
+AN Cook,113.76250076293945,null,null,null,null,null,null
+AC Agar,104.23103464060816,7.721267592739052,null,null,null,null,null
+HH Dippenaar,20,null,null,null,null,null,null
+A Martin,null,6.659999847412109,null,null,null,null,null
+C de Grandhomme,118.29454560713334,8.938947376451994,null,null,null,null,null
+Mehrab Hossain jnr,66.90999984741211,7.050000190734863,null,null,null,null,null
+DM Gondaria,113.82444508870442,null,null,null,null,null,null
+JJ Smit,154.07900009155273,6.255999970436096,null,null,null,null,null
+BTJ Wheal,100,8.45,null,null,null,null,null
+KMA Paul,104.33916695912679,8.463333341810438,null,null,null,null,null
+DAJ Bracewell,147.1699996948242,9.396874994039536,312,9/28/1990,Right_Hand,Right-arm fast-medium,New Zealand
+Shoaib Malik,121.81326983525203,7.500638292190876,86,2/1/1982,Right_Hand,Right-arm offbreak,Pakistan
+Awais Zia,84.04400024414062,null,null,null,null,null,null
+Imran Khan (1),0,8.833333333333334,null,null,null,null,null
+AG Cremer,58.65937566757202,7.28142854145595,null,null,null,null,null
+TGJ Gruijters,110.74800033569336,5.931999969482422,null,null,null,null,null
+Mirwais Ashraf,94.94166692097981,8.102272727272727,null,null,null,null,null
+AT Carey,106.29636521772905,null,null,null,null,null,null
+WW Hinds,56.939998626708984,null,null,null,null,null,null
+L Balaji,null,7.863999938964843,151,9/27/1981,Right_Hand,Right-arm medium-fast,India
+Khalid Latif,84.27846204317532,null,null,null,null,null,null
+Sohail Tanvir,118.75434842317,7.371578931808472,102,12/12/1984,Left_Hand,Left-arm medium-fast,Pakistan
+Nazmul Islam,119.4424991607666,7.041666666666667,null,null,null,null,null
+A Khan,50,8.5,null,null,null,null,null
+CS Martin,83.33000183105469,8.359999974568685,null,null,null,null,null
+Harbhajan Singh,127.32416725158691,6.289999997174299,50,7/3/1980,Right_Hand,Right-arm offbreak,India
+Inzamam-ul-Haq,73.33000183105469,null,null,null,null,null,null
+Mominul Haque,124.17749977111816,11.5,null,null,null,null,null
+KO Otieno,91.3075008392334,null,null,null,null,null,null
+DP Nannes,97.61499977111816,7.514999985694885,223,5/16/1976,Right_Hand,Left-arm fast,Australia
+T Shamsi,17.857142857142858,7.614769216684195,463,2/18/1990,Right_Hand,Slow left-arm chinaman,South Africa
+S Dube,115.18125057220459,12.287272713401101,null,null,null,null,null
+Nasir Jamshed,98.29722171359592,null,null,null,null,null,null
+Anwar Ali,105.21100044250488,8.579333305358887,null,null,null,null,null
+R Mutumbami,98.70833466847738,null,null,null,null,null,null
+R Strydom,79.16500091552734,null,null,null,null,null,null
+D Pretorius,142.4294137393727,8.628620673870218,null,null,null,null,null
+CH Gayle,119.31222248077393,8.444782588792885,162,9/21/1979,Left_Hand,Right-arm offbreak,West Indies
+OGL Bascome,91.47181909734553,9.583333333333334,null,null,null,null,null
+MJG Rippon,91.46818230368875,6.534117628546322,null,null,null,null,null
+DLS van Bunge,65.20818190141158,5,null,null,null,null,null
+BC Fortuin,0,8.957499980926514,null,null,null,null,null
+PA Hitchcock,118.18000030517578,14.329999923706055,null,null,null,null,null
+BM Tickner,83.33000183105469,9.981999969482422,null,null,null,null,null
+H Masakadza,103.36939414342244,9.333333333333334,null,null,null,null,null
+TJ Murtagh,99.7759994506836,7.480714321136475,null,null,null,null,null
+MEK Hussey,125.34500083923339,5,19,5/27/1975,Left_Hand,Right-arm medium,Australia
+NJ Maddinson,95.41500091552734,null,373,12/21/1991,Left_Hand,Slow left-arm orthodox,Australia
+BA King,108.94684118973582,null,null,null,null,null,null
+TWM Latham,97.31100082397461,null,null,null,null,null,null
+KK Ahmed,100,8.719999994550433,null,null,null,null,null
+MDKJ Perera,121.83897102580352,null,341,8/17/1990,Left_Hand,NULL,Sri Lanka
+L Gregory,133.33333333333334,7.25,null,null,null,null,null
+Khushdil Shah,72.72000122070312,null,null,null,null,null,null
+SW Masakadza,47.85599975585937,11.167142868041992,null,null,null,null,null
+Mudassar Bukhari,92.07125123341878,6.930285712650844,null,null,null,null,null
+S Chanderpaul,99.25000052018599,null,51,8/16/1974,Left_Hand,Legbreak,West Indies
+Aizaz Cheema,0,6.6,null,null,null,null,null
+RR Watson,114.72222222222223,8.9,null,null,null,null,null
+SN Thakur,204.16500091552734,8.85642855507987,406,10/16/1991,Right_Hand,Right-arm medium,India
+Mohammed Shami,null,9.805454514243387,347,9/3/1990,Right_Hand,Right-arm fast-medium,India
+Vikramjit Singh,115.37999725341797,null,null,null,null,null,null
+KJ Coetzer,109.45696418625968,7.081999969482422,null,null,null,null,null
+JH Stander,65.37000045776367,13.204285757882255,null,null,null,null,null
+Rahmanullah Gurbaz,112.3518532647027,null,null,null,null,null,null
+JL Pattinson,166.66000366210938,9.0625,null,null,null,null,null
+RE van der Merwe,95.1717860358102,6.4642857029324485,177,12/31/1984,Right_Hand,Slow left-arm orthodox,South Africa
+SD Hope,120.35909201882102,null,null,null,null,null,null
+DM Richards,0,null,null,null,null,null,null
+Imran Nazir,117.38916770617168,null,null,null,null,null,null
+T Muzarabani,0,9.488888846503365,null,null,null,null,null
+CAK Rajitha,24.59999942779541,9.649000000953674,null,null,null,null,null
+Al-Amin Hossain,59.165000915527344,7.2078823313993565,null,null,null,null,null
+JM Vince,111.91750017801921,null,null,null,null,null,null
+SP Fleming,122.55000152587891,null,107,4/1/1973,Left_Hand,NULL,New Zealand
+JAH Marshall,71.59000015258789,null,null,null,null,null,null
+MK Pandey,118.65677470545614,null,96,9/10/1989,Right_Hand,Right-arm medium,India
+PJ Hughes,75,null,null,null,null,null,null
+RR Rossouw,127.09785842895508,null,380,10/9/1989,Left_Hand,Right-arm offbreak,South Africa
+Misbah-ul-Haq,103.43454522797556,null,113,5/28/1974,Right_Hand,Legbreak,Pakistan
+Haris Rauf,null,7.375,null,null,null,null,null
+T Mishra,74.4880007425944,7.125,469,12/22/1986,Right_Hand,Right-arm fast-medium,India
+JB Little,104.0137505531311,9.363333320617675,null,null,null,null,null
+JC Archer,null,7.25,null,null,null,null,null
+Washington Sundar,140,7.044545433738015,null,null,null,null,null
+Zulfiqar Babar,111.60000101725261,7.214285714285714,null,null,null,null,null
+KMC Bandara,50,11,null,null,null,null,null
+Tamim Iqbal,101.91809967524325,null,null,null,null,null,null
+Hamid Hassan,111.08333418104384,6.458636332641948,null,null,null,null,null
+XJ Doherty,125.89250183105469,8.172727238048207,null,null,null,null,null
+Umar Gul,91.18559997558594,7.294999992847442,105,4/14/1984,Right_Hand,Right-arm fast-medium,Pakistan
+SK Raina,118.30092327411359,8.078148144262808,21,11/27/1986,Left_Hand,Right-arm offbreak,India
+Mohammad Yousuf,105.45333607991536,null,null,null,null,null,null
+Nauman Anwar,180,null,null,null,null,null,null
+DJ Willey,116.41055636935764,8.296785695212227,null,null,null,null,null
+SI Mahmood,50,10.934999942779541,null,null,null,null,null
+MR Marsh,130.56853689798496,8.292413777318494,253,10/20/1991,Right_Hand,Right-arm medium,Australia
+DE Bernard,100,4.25,null,null,null,null,null
+MRJ Watt,117.12000066583806,7.418787869540128,null,null,null,null,null
+Naveen-ul-Haq,100,6.5528571265084405,null,null,null,null,null
+J Lewis,25,8.164999961853027,null,null,null,null,null
+PD McGlashan,92.74000040690105,null,null,null,null,null,null
+Shoaib Khan jnr,72.69999885559082,null,null,null,null,null,null
+BN Cooper,100.16708445549011,null,null,null,null,null,null
+GI Maiden,0,6,null,null,null,null,null
+MK Tiwary,88.2300033569336,null,87,11/14/1985,Right_Hand,Legbreak googly,India
+Nurul Hasan,103.03000068664551,null,null,null,null,null,null
+CD de Lange,130,6.214285714285714,null,null,null,null,null
+RAJ Smith,128.57000732421875,9.695000171661377,null,null,null,null,null
+EC Joyce,86.22733256022136,null,null,null,null,null,null
+WD Parnell,135.45818328857422,8.627692302068075,267,7/30/1989,Left_Hand,Left-arm medium-fast,South Africa
+R Rampaul,41.665000915527344,8.958260847174603,349,10/15/1984,Left_Hand,Right-arm fast-medium,West Indies
+Yuvraj Singh,117.58000048469094,7.4883870770854335,27,12/12/1981,Left_Hand,Slow left-arm orthodox,India
+Iftikhar Anjum,null,8.375,null,null,null,null,null
+SHT Kandamby,47.02000045776367,null,null,null,null,null,null
+JAR Blain,66.66666666666667,5.4,null,null,null,null,null
+Karim Sadiq,91.52888912624783,7.612499986376081,null,null,null,null,null
+GJ Batty,57.13999938964844,5.659999847412109,null,null,null,null,null
+PSP Handscomb,98.88500213623047,null,423,4/26/1991,Right_Hand,NULL,Australia
+BW Hilfenhaus,8.333333333333334,6.142857142857143,451,3/15/1983,Right_Hand,Right-arm fast-medium,Australia
+E Chigumbura,117.41849093167286,10.2247618720645,null,null,null,null,null
+NJ O'Brien,96.82928630283901,null,null,null,null,null,null
+LS Baker,null,7,null,null,null,null,null
+TL Seifert,111.22260881506878,null,null,null,null,null,null
+PW Borren,108.73868480481599,7.218999989827474,null,null,null,null,null
+RS Bopara,103.46200049264091,7.961904741468883,161,5/4/1985,Right_Hand,Right-arm medium,England
+NS Poonia,63.27857208251953,null,null,null,null,null,null
+DA Miller,128.30319825767864,null,320,6/10/1989,Left_Hand,Right-arm offbreak,South Africa
+ACL Richards,66.66000366210938,null,null,null,null,null,null
+AJ Redmond,121.78666687011719,8.470000267028809,null,null,null,null,null
+PP Ojha,166.66000366210938,7.026666641235352,131,9/5/1986,Left_Hand,Slow left-arm orthodox,India
+RDM Leverock,null,5.25,null,null,null,null,null
+E Ochieng,null,7.5,null,null,null,null,null
+R Powell,101.74267963000706,9.247857093811035,null,null,null,null,null
+SB Styris,111.80000028939082,6.891428538731167,58,7/10/1975,Right_Hand,Right-arm medium,New Zealand
+MD Bates,null,9.71999994913737,null,null,null,null,null
+PM Seelaar,92.24250049591065,7.232413785210971,null,null,null,null,null
+Umar Amin,93.68444400363498,null,null,null,null,null,null
+J Edness,36.503334045410156,null,null,null,null,null,null
+DO Obuya,78.85699996948242,null,null,null,null,null,null
+NN Odhiambo,94.99800071716308,8.200476169586182,null,null,null,null,null
+RN Patel,41.665000915527344,null,null,null,null,null,null
+Hasan Ali,124.9066670735677,8.339666668574015,null,null,null,null,null
+Junaid Khan,75,9.137777752346462,null,null,null,null,null
+RW Chakabva,69.59500026702881,null,null,null,null,null,null
+EB Ringera,33.33000183105469,4.5,null,null,null,null,null
+MM Iqbal,86.38333384195964,8.583333333333334,null,null,null,null,null
+JD Wildermuth,100,12,null,null,null,null,null
+BB McCullum,123.79957195009504,null,2,9/27/1981,Right_Hand,Right-arm medium,New Zealand
+RV Uthappa,95.12583351135254,null,46,11/11/1985,Right_Hand,Right-arm medium,India
+MM Sharma,50,7.780000001192093,364,9/18/1988,Right_Hand,Right-arm medium,India
+CRD Fernando,48.331999969482425,7.323333316379124,149,7/19/1979,Right_Hand,Right-arm fast-medium,Sri Lanka
+TS Chisoro,85.97166697184245,6.985833326975505,null,null,null,null,null
+P Kerai,0,7.931999969482422,null,null,null,null,null
+Hussain Talat,106.45142800467355,8.75,null,null,null,null,null
+JP Bray,10,null,null,null,null,null,null
+MJ Lumb,118.04185316297743,null,224,2/12/1980,Left_Hand,Right-arm medium,England
+SR Watson,118.85160759517125,8.165102034198995,32,6/17/1981,Right_Hand,Right-arm fast-medium,Australia
+AD Mathews,116.98426957612627,7.272415710968918,191,6/2/1987,Right_Hand,Right-arm fast-medium,Sri Lanka
+MS Atapattu,62.5,null,null,null,null,null,null
+Hasan Mahmud,null,6.25,null,null,null,null,null
+DJ Reekers,111.5980010986328,null,null,null,null,null,null
+Qais Ahmad,null,6.25,null,null,null,null,null
+DR Martyn,130.07500076293945,null,225,10/21/1971,Right_Hand,Right-arm medium,Australia
+HH Gibbs,95.50695701267408,null,97,2/23/1974,Right_Hand,Right-arm bowler,South Africa
+RP Singh,100,6.953333324856228,61,12/6/1985,Right_Hand,Left-arm fast-medium,India
+DS Kulkarni,100,6.875,80,12/10/1988,Right_Hand,Right-arm medium,India
+RAS Lakmal,55,10.02636363289573,null,null,null,null,null
+LN Oluoch,80.1366678873698,7.340999984741211,null,null,null,null,null
+CJO Smith,52.776666005452476,null,null,null,null,null,null
+LE Bosman,105.71928576060704,null,null,null,null,null,null
+Usman Shinwari,66.66000366210938,8.202500000596046,null,null,null,null,null
+Sikander Zulfiqar,100.13750076293945,8.165714263916016,null,null,null,null,null
+TM Odoyo,75.34899978637695,4.781999969482422,null,null,null,null,null
+NM Lyon,100,11.625,null,null,null,null,null
+D Paterson,250,8.738749980926514,null,null,null,null,null
+Sharjeel Khan,130.47266743977863,null,null,null,null,null,null
+Zakir Hasan,111.11000061035156,null,null,null,null,null,null
+NJ Reardon,50,null,null,null,null,null,null
+MJ McClenaghan,139.2849998474121,7.6153571265084405,403,6/11/1986,Left_Hand,Left-arm fast-medium,New Zealand
+M Kartik,null,6.75,83,9/11/1976,Left_Hand,Slow left-arm orthodox,India
+Fawad Alam,111.42764686135685,8.178333282470703,null,null,null,null,null
+Raza Hasan,70.82999992370605,5.857999992370606,null,null,null,null,null
+Nazmus Sadat,133.3300018310547,null,null,null,null,null,null
+BR McDermott,68.68500061035157,null,null,null,null,null,null
+KM Dabengwa,124.80500094095866,9.189999989100865,null,null,null,null,null
+JA Rudolph,85.70999908447266,null,null,null,null,null,null
+ADS Fletcher,80.33100004196167,null,null,null,null,null,null
+CT Mumba,137.5,10.886666615804037,null,null,null,null,null
+GH O'Brien,84.72166697184245,6.324545426802202,null,null,null,null,null
+CS MacLeod,100.9504255538291,9.272727272727273,null,null,null,null,null
+CD Wallace,102.0985723223005,null,null,null,null,null,null
+CB Sole,200,8.8125,null,null,null,null,null
+IJL Trott,73.71000017438617,null,null,null,null,null,null
+MH Yardy,99.11428506033761,6.633846136239859,null,null,null,null,null
+AJ Hall,110,7.5,null,null,null,null,null
+Kamran Akmal,96.31396333226618,null,69,1/13/1982,Right_Hand,NULL,Pakistan
+RL Bhudia,74.07333374023438,14.916666666666666,null,null,null,null,null
+Yamin Ahmadzai,100,9.139999866485596,null,null,null,null,null
+LE Plunkett,83.73666720920139,8.20136366107247,null,null,null,null,null
+CAK Walton,82.11588197595933,null,null,null,null,null,null
+PG Fulton,70.99500147501628,null,null,null,null,null,null
+SHA Rance,49.016666412353516,9.094285692487444,null,null,null,null,null
+MD Gunathilaka,116.58521768321161,8.425555547078451,null,null,null,null,null
+KJ O'Brien,114.53693536049562,8.15450979681576,null,null,null,null,null
+HT Tector,120.78156819063075,null,null,null,null,null,null
+DA Warner,124.09995820966817,null,187,10/27/1986,Left_Hand,Legbreak,Australia
+XM Marshall,103.66833368937175,null,null,null,null,null,null
+JD Ryder,112.22428530738468,8,157,8/6/1984,Left_Hand,Right-arm medium,New Zealand
+BRM Taylor,100.56803466927292,2.5,null,null,null,null,null
+C Floyd,78.33000183105469,9.664999961853027,null,null,null,null,null
+AJ Finch,127.40000119052091,13.5,254,11/17/1986,Right_Hand,Slow left-arm orthodox,Australia
+ST Gabriel,null,7.5,null,null,null,null,null
+KL Rahul,132.12105289258454,null,354,4/18/1992,Right_Hand,NULL,India
+S Kaul,null,7.673333485921224,368,5/19/1990,Right_Hand,Right-arm medium,India
+Rameez Raja (2),67.59000015258789,null,null,null,null,null,null
+KTGD Prasad,null,12.329999923706055,null,null,null,null,null
+TC Bruce,105.93823511460248,null,null,null,null,null,null
+NJ Astle,106.4174976348877,7.789999961853027,null,null,null,null,null
+CK Tshuma,null,10,null,null,null,null,null
+DMW Rawlins,107.95636333118786,7.7272727272727275,null,null,null,null,null
+J Smits,52.349998474121094,null,null,null,null,null,null
+Aftab Ahmed,129.069091796875,24,null,null,null,null,null
+WK McCallan,53.96666971842448,6.107142857142857,null,null,null,null,null
+SO Hetmyer,111.52080720470798,null,null,null,null,null,null
+A Nehra,40.15999908447266,7.850740715309426,73,4/29/1979,Right_Hand,Left-arm medium-fast,India
+T Thushara,50,8.09666665395101,156,3/1/1981,Left_Hand,Left-arm fast-medium,Sri Lanka
+V Sibanda,94.8561542217548,null,null,null,null,null,null
+JP Kotze,95.09750048319499,null,null,null,null,null,null
+CMW Read,118.18000030517578,null,null,null,null,null,null
+RE Levi,95.88846236008864,null,304,1/14/1988,Right_Hand,Right-arm medium,South Africa
+SM Pollock,73.03111097547743,7.704545454545454,49,7/16/1973,Right_Hand,Right-arm fast-medium,South Africa
+R Frylinck,null,5.916666666666667,null,null,null,null,null
+GC Tonge,null,6.25,null,null,null,null,null
+R Ngarava,null,12,null,null,null,null,null
+BD Glover,66.66666666666667,7.200526287681178,null,null,null,null,null
+G Gambhir,110.953611585829,null,40,10/14/1981,Left_Hand,Legbreak,India
+Mohammad Salman,83.33000183105469,null,null,null,null,null,null
+GJ Thompson,60.80125045776367,null,null,null,null,null,null
+HG Munsey,130.0894446902805,null,null,null,null,null,null
+Izatullah Dawlatzai,0,10.977499961853027,null,null,null,null,null
+PR Brown,44.439998626708984,10.602499961853027,null,null,null,null,null
+KD Karthik,159.5033337275187,null,88,6/1/1985,Right_Hand,NULL,India
+IK Pathan,116.04615490253155,8.372173889823582,29,10/27/1984,Left_Hand,Left-arm medium-fast,India
+Shafiqullah,155.2515001296997,null,null,null,null,null,null
+LA Pomersbach,214.27999877929688,null,139,9/28/1984,Left_Hand,Right-arm offbreak,Australia
+MN Samuels,107.48846101027269,8.490666643778484,307,2/5/1981,Right_Hand,Right-arm offbreak,West Indies
+P Negi,null,5.329999923706055,322,1/6/1993,Left_Hand,Slow left-arm orthodox,India
+SP Terry,66.66000366210938,null,null,null,null,null,null
+HE van der Dussen,115.2941470262481,null,null,null,null,null,null
+Sahibzada Farhan,57.564998626708984,null,null,null,null,null,null
+SMA Priyanjan,86.66666666666667,null,null,null,null,null,null
+S Smith,57.63666788736979,null,null,null,null,null,null
+E Schiferli,34.916666666666664,6.458333333333333,null,null,null,null,null
+JS Kundi,29.8700008392334,7.5,null,null,null,null,null
+JNK Shannon,97.61500072479248,11,null,null,null,null,null
+FRJ Coleman,69.2300033569336,null,null,null,null,null,null
+Imran Tahir,111.30750179290771,6.7785714285714285,386,3/27/1979,Right_Hand,Legbreak googly,India
+AP Devcich,111.4375,7.122499942779541,null,null,null,null,null
+NL McCullum,85.60868521740562,7.196949134438725,281,9/1/1980,Right_Hand,Right-arm offbreak,New Zealand
+GD Elliott,104.81714466639927,8.428571428571429,null,null,null,null,null
+KM Jadhav,116.02333323160808,null,237,3/26/1985,Right_Hand,Right-arm offbreak,India
+BJ Haddin,103.88310373240503,null,279,10/23/1977,Right_Hand,NULL,Australia
+Umar Akmal,102.28797555271584,null,null,null,null,null,null
+AK Perera,93.63399963378906,17,null,null,null,null,null
+IR Bell,102.88374996185303,null,null,null,null,null,null
+ML Hayden,144.65555657280817,null,18,10/29/1971,Left_Hand,Right-arm medium,Australia
+UWMBCA Welegedara,66.66000366210938,10.25,null,null,null,null,null
+SJ Myburgh,93.26531302928925,null,null,null,null,null,null
+BJ Hodge,125.6854546286843,8.833333333333334,104,12/29/1974,Right_Hand,Right-arm offbreak,Australia
+LM Jongwe,89.105715070452,10.094285692487444,null,null,null,null,null
+S Matsikenyeri,65.47799987792969,8.166666666666666,null,null,null,null,null
+Najmul Hossain Shanto,92.36000061035156,null,null,null,null,null,null
+Nawroz Mangal,93.57437515258789,12.03499984741211,null,null,null,null,null
+KW Richardson,64.28500366210938,7.6684905358080595,363,2/12/1991,Right_Hand,Right-arm fast-medium,Australia
+NO Miller,96.21600036621093,7.186666700575087,null,null,null,null,null
+Mukhtar Ahmed,107.48500061035156,null,null,null,null,null,null
+BOP Fernando,105.1020004272461,null,null,null,null,null,null
+ST de Silva,25,10,null,null,null,null,null
+Sajedul Islam,null,15,null,null,null,null,null
+Amir Hamza,109.07428523472377,6.922903230113368,null,null,null,null,null
+MJ Henry,200,8.333333333333334,null,null,null,null,null
+V Kohli,127.14157957779734,8.835833311080933,8,11/5/1988,Right_Hand,Right-arm medium,India
+N M'shangwe,83.33000183105469,9.281999969482422,null,null,null,null,null
+Mohammad Rafique,260,5.5,null,null,null,null,null
+GJ McCarter,null,10,null,null,null,null,null
+IDR Bradshaw,null,5.5,null,null,null,null,null
+RR Patel,116.42192268371582,7.714285714285714,null,null,null,null,null
+PA Nixon,140.89999389648438,null,null,null,null,null,null
+AU Rashid,97.23142978123256,8.23341462670303,null,null,null,null,null
+SW Tait,72.22166697184245,7.311904748280843,238,2/22/1983,Right_Hand,Right-arm fast,Australia
+Yasir Arafat,123.5309101451527,8.439999983860897,null,null,null,null,null
+Abdur Rehman,98.49800109863281,8.332499980926514,null,null,null,null,null
+MJ North,95.2300033569336,null,null,null,null,null,null
+MR Gillespie,71.16833368937175,7.1519999504089355,null,null,null,null,null
+Sandeep Sharma,100,10.539999961853027,367,5/18/1993,Right_Hand,Right-arm medium,India
+SE Rutherford,109.46750068664551,8.164999961853027,null,null,null,null,null
+JS Jesani,20,null,null,null,null,null,null
+DJM Short,109.7060007095337,8.80444441901313,null,null,null,null,null
+GW Aldridge,null,11.25,null,null,null,null,null
+G Wijekoon,50,8.75,null,null,null,null,null
+DL Brangman,36.506665547688804,12.8,null,null,null,null,null
+JW Dernbach,88.77428545270648,8.611212109074447,null,null,null,null,null
+GB Hogg,116,7.920666631062826,316,2/6/1971,Left_Hand,Slow left-arm chinaman,Australia
+HD Rutherford,110.55857195172992,null,null,null,null,null,null
+S Randiv,125,6.654285703386579,278,1/30/1985,Right_Hand,Right-arm offbreak,Sri Lanka
+CM Wright,77.7699966430664,13.625,null,null,null,null,null
+CJ Ferguson,59.25333150227865,null,295,11/21/1984,Right_Hand,Right-arm medium,Australia
+AM McCarthy,62.5,6,null,null,null,null,null
+A Balbirnie,106.83894816616126,null,null,null,null,null,null
+Hazratullah Zazai,132.26302515074264,null,null,null,null,null,null
+PM Nevill,266,null,null,null,null,null,null
+Q de Kock,124.58476608991623,null,355,12/17/1992,Left_Hand,NULL,South Africa
+JEC Franklin,112.02387102188602,8.221538452001719,275,11/7/1980,Left_Hand,Left-arm medium,New Zealand
+TA Boult,72.02285766601562,8.648518491674352,458,7/22/1989,Right_Hand,Left-arm fast-medium,New Zealand
+RA Jadeja,102.9961907523019,7.4008163189401435,35,12/6/1988,Left_Hand,Slow left-arm orthodox,India
+HGJM Kulatunga,50.55500030517578,null,null,null,null,null,null
+Abu Hider,117.35250091552734,10.09666665395101,null,null,null,null,null
+Dawlat Ahmadzai,66.66000366210938,11.5,null,null,null,null,null
+SPD Smith,111.85086988366169,8.065294097451602,306,6/2/1989,Right_Hand,Legbreak googly,India
+JM Kemp,117.08285576956612,5,217,10/2/1977,Right_Hand,Right-arm fast-medium,South Africa
+VD Philander,49.679999351501465,9.083333333333334,null,null,null,null,null
+P Awana,null,12.5,333,7/19/1986,Right_Hand,Right-arm medium,India
+BKG Mendis,101.05368433500591,null,null,null,null,null,null
+M Pushpakumara,null,9,null,null,null,null,null
+Nazmul Hossain,12.5,9.75,null,null,null,null,null
+Taijul Islam,0,8.329999923706055,null,null,null,null,null
+GJ Delany,139.27283452351887,7.6617543739185,null,null,null,null,null
+DF Watts,84.4944445292155,null,null,null,null,null,null
+DR Briggs,null,11.554999987284342,null,null,null,null,null
+SA Abbott,62.5,7.789999961853027,397,2/29/1992,Right_Hand,Right-arm fast-medium,New Zealand
+AL Phehlukwayo,78.49933369954427,8.306153810941256,null,null,null,null,null
+GH Bodi,32,null,null,null,null,null,null
+FL Reifer,110,null,null,null,null,null,null
+RD Chahar,null,9,null,null,null,null,null
+Hamza Tahir,null,8.211818174882369,null,null,null,null,null
+NM Hauritz,80.95000076293945,6.375,null,null,null,null,null
+AY Patel,null,7.875,null,null,null,null,null
+WPUJC Vaas,83.6500015258789,6.208333333333333,60,1/27/1974,Left_Hand,Left-arm fast-medium,Sri Lanka
+SS Pathirana,98,7.621999931335449,null,null,null,null,null
+EC Rainsford,50,11.164999961853027,null,null,null,null,null
+GH Dockrell,108.57471717978423,7.516308403460779,null,null,null,null,null
+GA Rogers,76.66500091552734,8.455000042915344,null,null,null,null,null
+CL Cairns,23.609999656677246,6.5,null,null,null,null,null
+Asif Ali,109.19583384195964,null,null,null,null,null,null
+K Weeraratne,99.76799926757812,9.297999954223632,null,null,null,null,null
+MA Aponso,0,7.913333257039388,null,null,null,null,null
+Rubel Hossain,48.05500030517578,9.125384624187763,null,null,null,null,null
+DC Delany,70,7.912500023841858,null,null,null,null,null
+EJG Morgan,120.65837287902832,null,216,9/10/1986,Left_Hand,Right-arm medium,England
+TR Birt,86.98333231608073,null,285,12/9/1981,Left_Hand,Right-arm medium,Australia
+FH Edwards,81.25,8.761499953269958,165,2/6/1982,Right_Hand,Right-arm fast,West Indies
+DL Vettori,93.61904798235211,5.727352941737456,175,1/27/1979,Left_Hand,Slow left-arm orthodox,New Zealand
+NT Broom,99.76142992292132,null,null,null,null,null,null
+TA Blundell,73.75,null,null,null,null,null,null
+PWH de Silva,108.15871035668158,8.6953125,null,null,null,null,null
+CB Mpofu,72.62793179216057,8.986881702176985,null,null,null,null,null
+Karim Janat,96.64674492769463,8.539565183114314,null,null,null,null,null
+JP Faulkner,118.20722346835666,7.991666654745738,310,4/29/1990,Right_Hand,Left-arm fast-medium,Australia
+CT Bancroft,null,null,null,null,null,null,null
+MN van Wyk,108.11000061035156,null,176,3/20/1979,Right_Hand,Slow left-arm orthodox,South Africa
+S Qeshile,null,null,null,null,null,null,null
+MJ Guptill,118.77717662138097,11,415,9/30/1986,Right_Hand,Right-arm offbreak,New Zealand
+DL Chahar,100,6.792999994754791,465,8/7/1992,Right_Hand,Right-arm medium,India
+GA Lamb,70.23500061035156,7,null,null,null,null,null
+SD Parry,100,8.9,null,null,null,null,null
+KS Williamson,119.13465585379765,9.34166669845581,396,8/8/1990,Right_Hand,Right-arm offbreak,New Zealand
+Mandeep Singh,103.82333374023438,null,236,12/18/1991,Right_Hand,Right-arm medium,India
+SE Findlay,102.30500030517578,null,null,null,null,null,null
+D Mongia,84.44000244140625,null,null,null,null,null,null
+Mansoor Amjad,null,3,null,null,null,null,null
+CBRLS Kumara,150,8.918823466581458,null,null,null,null,null
+Shuvagata Hom,77.45499992370605,6.457499980926514,null,null,null,null,null
+Syed Rasel,108.32999992370605,7.447499990463257,null,null,null,null,null
+Hammad Azam,89.16500091552734,null,null,null,null,null,null
+B Muzarabani,16.666666666666668,9.166666666666666,null,null,null,null,null
+BT Foakes,null,null,null,null,null,null,null
+UT Khawaja,135.81444634331598,null,426,12/18/1986,Left_Hand,Right-arm medium,Australia
+Imad Wasim,120.13379327182112,6.152619043986003,null,null,null,null,null
+S Mahmood,104.16500091552734,11.25,null,null,null,null,null
+A Symonds,135.044545953924,9.050833304723104,56,6/9/1975,Right_Hand,Right-arm offbreak,Australia
+OF Smith,120,11.329999923706055,null,null,null,null,null
+Babar Azam,116.2768420169228,null,null,null,null,null,null
+T Munyonga,116.66500091552734,3,null,null,null,null,null
+I Wardlaw,33.33000183105469,9.0625,null,null,null,null,null
+Shabir Noori,83.33000183105469,null,null,null,null,null,null
+KOA Powell,85.70999908447266,null,null,null,null,null,null
+MS Chapman,109.3979995727539,null,null,null,null,null,null
+Fazal Niazai,80,13,null,null,null,null,null
+DL Maddy,140.45999908447266,8,null,null,null,null,null
+HM Nicholls,66.50000095367432,null,null,null,null,null,null
+Haris Sohail,81.88538654033954,null,null,null,null,null,null
+Younis Khan,91.71260966425356,4.900000095367432,141,11/29/1977,Right_Hand,Right-arm medium,Pakistan
+Bilawal Bhatti,128.33333333333334,10.516666624281141,null,null,null,null,null
+Waqas Maqsood,null,11.449999809265137,null,null,null,null,null
+S Samarawickrama,104.83999960763114,null,null,null,null,null,null
+GO Jones,131.4900016784668,null,null,null,null,null,null
+D Ramdin,107.69693896235252,null,null,null,null,null,null
+AM Blignaut,100,null,null,null,null,null,null
+GMC Mol,null,null,null,null,null,null,null
+Mohammad Ashraful,123.91999916408373,8.84375,202,7/7/1984,Right_Hand,Right-arm offbreak,Bangladesh
+Shamsur Rahman,73.79875183105469,null,null,null,null,null,null
+ML Lewis,null,6.444999933242798,null,null,null,null,null
+AM Phangiso,62.8066660563151,8,null,null,null,null,null
+VJ Kingma,12.5,9.6875,null,null,null,null,null
+Imrul Kayes,63.52230893648588,null,null,null,null,null,null
+MS Wade,103.20118661654197,null,271,12/26/1987,Left_Hand,Right-arm medium,Australia
+JDP Oram,117.19466667175293,8.89437498152256,22,7/28/1978,Left_Hand,Right-arm fast-medium,New Zealand
+SC Williams,109.93812019804604,7.474035079019112,null,null,null,null,null
+F du Plessis,124.57885530340762,1.5,303,7/13/1984,Right_Hand,Legbreak,South Africa
+CD Barnwell,115.45333353678386,8.25,null,null,null,null,null
+KAJ Roach,150,8.10545453158292,240,6/30/1988,Right_Hand,Right-arm fast,West Indies
+LD Madushanka,60.13999938964844,9,null,null,null,null,null
+Jahurul Islam,124.07333374023438,null,null,null,null,null,null
+PS Eaglestone,null,8,null,null,null,null,null
+MJ Swepson,75,9.25,null,null,null,null,null
+SR Clark,null,6.583333333333333,null,null,null,null,null
+JW Wilson,128.57000732421875,10.75,null,null,null,null,null
+Salman Butt,99.36478341144064,null,103,10/7/1984,Left_Hand,Right-arm offbreak,Pakistan
+Naved-ul-Hasan,126.98000288009644,7.227499961853027,null,null,null,null,null
+Tanvir Ahmed,null,4.329999923706055,null,null,null,null,null
+MB van Schelven,null,4.080000042915344,null,null,null,null,null
+TB Sole,143.7483342488607,6.388333320617676,null,null,null,null,null
+Sayed Shirzad,50,7.582499980926514,null,null,null,null,null
+MP Vaughan,64.28500366210938,null,null,null,null,null,null
+TR Ambrose,null,null,null,null,null,null,null
+JR Hazlewood,null,9.607142857142858,null,null,null,null,null
+JA Morkel,142.8616216504896,8.284130433331365,109,6/10/1981,Left_Hand,Right-arm medium-fast,South Africa
+DW Steyn,79.544545953924,7.051702113861733,94,6/27/1983,Right_Hand,Right-arm fast,South Africa
+AC Thomas,null,6.25,274,2/9/1977,Right_Hand,Right-arm fast-medium,England
+RS Morton,73.43000085013253,null,null,null,null,null,null
+RJ Nicol,91.89894776595266,8.063076899601864,null,null,null,null,null
+IS Sodhi,105.60857282366071,8.519318168813532,null,null,null,null,null
+TD Astle,40,9.776666641235352,null,null,null,null,null
+Asad Shafiq,93.4500015258789,null,null,null,null,null,null
+Imran Farhat,96.33571515764508,null,null,null,null,null,null
+MD Shanaka,87.43782680345618,8.50319148631806,null,null,null,null,null
+GM Hamilton,80.74000120162964,null,null,null,null,null,null
+Shapoor Zadran,29.368999862670897,7.963773565472297,null,null,null,null,null
+CR Woakes,142.70000076293945,10.31124997138977,null,null,null,null,null
+JC Tredwell,106.66600036621094,8.365333302815754,null,null,null,null,null
+SC Meaker,null,8.900000095367432,null,null,null,null,null
+BR Dunk,137.04600219726564,null,379,3/11/1987,Left_Hand,NULL,Australia
+RJ Harris,200,8.126666704813639,188,10/11/1979,Right_Hand,Right-arm fast,Australia
+KOK Williams,79.14200134277344,9.048000011444092,null,null,null,null,null
+MS Dhoni,133.79345298948743,null,20,7/7/1981,Right_Hand,Right-arm medium,India
+Mohammad Shahid,null,10.65999984741211,null,null,null,null,null
+Ibrahim Zadran,50.55333455403646,null,null,null,null,null,null
+Mujeeb Ur Rahman,100,5.8879629417702,null,null,null,null,null
+D Gough,null,6.965000152587891,null,null,null,null,null
+JW Hastings,134.48833338419595,8.146666632758247,457,11/4/1985,Right_Hand,Right-arm fast-medium,Australia
+DT Christian,119.41285814557757,9.790624976158142,258,5/4/1983,Right_Hand,Right-arm fast-medium,Australia
+CH Morris,91.18153850848859,8.363043453382408,350,4/30/1987,Right_Hand,Right-arm fast-medium,South Africa
+HG Kuhn,103.33166758219402,null,null,null,null,null,null
+Mohammad Asif,325,8.011818192221902,117,12/20/1982,Left_Hand,Right-arm fast-medium,Pakistan
+Shabbir Ahmed,null,9.5,null,null,null,null,null
+ST Jayasuriya,99.64344813905913,7.871666659911473,44,6/30/1969,Left_Hand,Slow left-arm orthodox,Sri Lanka
+LD Chandimal,96.04361724853516,null,null,null,null,null,null
+K Birkenstock,155.3550033569336,null,null,null,null,null,null
+B Stanlake,84.28499984741211,8.126842097232217,null,null,null,null,null
+AK Markram,92.5,null,null,null,null,null,null
+YA Abdulla,null,6.164999961853027,215,1/17/1983,Left_Hand,Left-arm fast-medium,India
+JO Holder,112.3009102561257,8.58411766501034,391,11/5/1991,Right_Hand,Right-arm medium-fast,West Indies
+PP Chawla,0,7.5,67,12/24/1988,Left_Hand,Legbreak,India
+CK Kapugedera,116.20184316133198,null,127,2/24/1987,Right_Hand,Right-arm medium,Sri Lanka
+JD Schoonheim,null,null,null,null,null,null,null
+SO Ngoche,64.91411814970128,6.933928557804653,null,null,null,null,null
+AD Poynter,92.87642887660435,null,null,null,null,null,null
+AR McBrine,104.07090828635476,9.185384603647085,null,null,null,null,null
+Mohammad Shahzad,120.30215383676382,null,null,null,null,null,null
+SM Davies,142.46400146484376,null,null,null,null,null,null
+DO Christian,0,null,null,null,null,null,null
+V Shankar,142.01000213623047,9,455,1/26/1991,Right_Hand,Right-arm medium,India
+Abdur Razzak,44.21222241719564,6.942424225084709,145,6/15/1982,Left_Hand,Slow left-arm orthodox,Bangladesh
+RM Hira,117.86666615804036,8.076923076923077,null,null,null,null,null
+IG Butler,65,8.487777762942844,null,null,null,null,null
+DE Budge,92.31999969482422,null,null,null,null,null,null
+AD Hales,118.02864478806318,null,null,null,null,null,null
+CT Tremlett,null,11.25,null,null,null,null,null
+ND McKenzie,87.5,null,null,null,null,null,null
+JDS Neesham,127.46200052897136,11.212499976158142,376,9/17/1990,Left_Hand,Right-arm medium,New Zealand
+DM de Silva,103.81666717529296,7.333333333333333,null,null,null,null,null
+RI Ahmed,77.3849983215332,null,null,null,null,null,null
+Sabbir Rahman,101.28209331423737,6.321250021457672,null,null,null,null,null
+JF Mooney,110.15272695367986,7.714999961853027,null,null,null,null,null
+J Anderson,64.6150016784668,13,null,null,null,null,null
+TK Curran,124.76142883300781,9.026666641235352,null,null,null,null,null
+HR Walsh,40.70333353678385,8.96875,null,null,null,null,null
+A Ndlovu,50,8.386666615804037,null,null,null,null,null
+TS Fray,63.81333329942491,null,null,null,null,null,null
+DC Stovell,64.39000002543132,7.179999987284343,null,null,null,null,null
+MP O'Dowd,114.43200138636998,10.466666645473904,null,null,null,null,null
+FJ Klaassen,96.80999973842076,8.255999994277953,null,null,null,null,null
+Sharafuddin Ashraf,78.51000022888184,8.09375,null,null,null,null,null
+CA Lynn,117.82437467575073,null,336,4/10/1990,Right_Hand,Slow left-arm orthodox,Australia
+M Mosehle,218.66000111897787,null,null,null,null,null,null
+DP Hyatt,117.46600036621093,null,null,null,null,null,null
+Fakhar Zaman,117.92394002278645,12,null,null,null,null,null

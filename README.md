@@ -1,4 +1,4 @@
-# IPL-Match-Predictions
+# IPL-Match-Predictions (PySpark, SparkML, SparkSQL, MongoDB Atlas)
 
 Sports analytics is a promising research field which involves deriving valuable information about the game, based on past games played, or even games in progress. The prediction of the final outcome of the match proves very beneficial to team members, team coaches and also bettors. For example, games tactics can be developed by club managers based on the outcome of previous matches or statistics related to certain players. IPL being a very dynamic league, bettors and bookies are incentivised to bet on the match results or during a game. The sports betting industry is growing at a fast rate.
 
